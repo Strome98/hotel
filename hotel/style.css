@@ -1,0 +1,64 @@
+body{
+    background-size:cover;
+    color:white;
+    font-family:sans-serif;
+	background-color:#ED5D46;
+}
+#border{
+    width:100%;
+	height:50px;
+    background-color:#D71E00;
+}
+#fejlec{
+    width:100%;
+	height:50px;
+    background-color:black;
+    border:4px inset white;	
+}
+h1{
+    text-align:center;
+    letter-spacing:4px;
+}
+ul{
+    text-align:center;
+}
+li{
+	display:inline-block;
+	margin-right: 20px;
+	margin-left:20px;
+	padding-right:20px;
+	padding-left:20px;
+	color:#9F2F1D;
+	cursor:pointer;
+	
+}
+.picture{
+	width:521.5px;
+	float:left;
+}
+#allec{
+	width:100%;
+	height:50px;
+    background-color:black;
+    border:4px inset white;
+	clear:both;
+}
+#first{
+	width:510px;
+	float:left;
+	margin-right:5px;
+	background-color:black;
+	
+}
+#second{
+	width:510px;
+	float:left;
+	margin-right:5px;
+	background-color:black;
+}
+#third{
+	width:510px;
+	float:left;
+	margin-right:5px;
+	background-color:black;
+}
